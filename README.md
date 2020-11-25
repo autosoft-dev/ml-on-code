@@ -13,4 +13,4 @@ A repo where we have slides, notebooks, etc. related to ml-on-code
 
     * An End to End Application [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/autosoft-dev/ml-on-code/blob/main/notebooks/27_11_2020/Code_Summarization.ipynb)
 
-    * Limitations and Further Research (https://colab.research.google.com/github/autosoft-dev/ml-on-code/blob/main/notebooks/27_11_2020/Code_Summarization.ipynb)
+    * [Limitations and Further Research](https://github.com/autosoft-dev/ml-on-code/blob/main/notebooks/27_11_2020/Limitations%20and%20Further%20Research.ipynb)
