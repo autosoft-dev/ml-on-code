@@ -7,4 +7,4 @@ A repo where we have slides, notebooks, etc. related to ml-on-code
 
     * [Introduction](https://github.com/autosoft-dev/ml-on-code/blob/main/notebooks/27_11_2020/Introduction.ipynb)
 
-    * [Background etc.]()
+    * [Background etc.](https://github.com/autosoft-dev/ml-on-code/blob/main/notebooks/27_11_2020/Background%20etc.ipynb)
