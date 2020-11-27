@@ -3,7 +3,7 @@ A repo where we have slides, notebooks, etc. related to ml-on-code
 
 ## Talks and Confs.
 
-1. Abhishek Thakur <> Shubhadeep Roychowdhury
+1. Abhishek Thakur <> Shubhadeep Roychowdhury [Link](https://www.youtube.com/watch?v=2d-w3cx2TlU&feature=youtu.be)
 
     * [Introduction](https://github.com/autosoft-dev/ml-on-code/blob/main/notebooks/27_11_2020/Introduction.ipynb)
 
